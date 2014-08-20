@@ -5,7 +5,7 @@ GDB Ruby wrapper for x86/x86_64 Linux binaries
 
  Author: antisnatchor
 
-====================== GDB-Ruby wrapper ======================
+Description:
  I ended up writing this because @chrisrohlf hasn't ported yet
  RagWeed to x86_64 and I needed to monitor a 64bit Linux process while fuzzing it.
  I also didn't want to use GDB's Python API.
