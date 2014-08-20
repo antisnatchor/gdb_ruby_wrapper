@@ -198,7 +198,7 @@ end
 puts "[+] GDB Ruby wrapper for x86/x86_64 Linux binaries - by antisnatchor"
 
 # this is the executable name you want to attach GDB to it. Make sure it's in /usr/bin
-process_name = "wasp"
+process_name = "opsec"
 
 sleep_before_reattach = 20 #seconds
 verbose_gdb_output = false
