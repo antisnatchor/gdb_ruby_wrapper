@@ -20,3 +20,5 @@ Description:
  NOTE: You need to monitor the target process and re-start it yourself,
  the wrapper doesn't do that for you so far. 
  Make sure you adjust <sleep_before_reattach> accordingly.
+
+![Example](https://raw.githubusercontent.com/antisnatchor/gdb_ruby_wrapper/master/example.png)
